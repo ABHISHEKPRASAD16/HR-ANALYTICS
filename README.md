@@ -1,0 +1,3 @@
+HR Analytics Dashboard Project
+
+Developed an HR Analytics Dashboard using Excel, Tableau, and Power BI to analyze workforce data and provide actionable insights. Leveraged SQL to query, clean, and verify data from HR databases, ensuring accuracy and consistency. In Excel, initial data exploration, pivot analysis, and trend identification were performed. Tableau created dynamic dashboards with interactive filters and visualizations for KPIs like attrition, employee performance, and diversity metrics. Built Power BI dashboards with advanced data modeling and DAX functions for real-time analytics. The project enhanced decision-making for HR teams by identifying trends, improving employee management, and optimizing workforce strategies.
